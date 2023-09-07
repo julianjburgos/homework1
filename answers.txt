@@ -1,3 +1,3 @@
-What is the difference between a merge and a rebase?
+What is a remote repository?
 
-A rebase is used to maintain a cleaner commit history so that there are no merge conflicts later when you are collaborating code in the codespace. A merge is used to preserve commit history and used when collaborating code with others through the codespace.
+A remote repository is a repository hosted on a server or another location that is not on your local computer.
